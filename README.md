@@ -34,10 +34,10 @@ Sensitive information has been removed or transformed to reduce re-identificatio
 
 The full dataset is not publicly available.
 
-## //
+## Associated Article
 
-### Author: 
-Cristhianne De León Vargas
+This repository accompanies the article:
 
-### Context: 
-IJCOPI Article – Reproducible Framework
+"A Reproducible Data Mining Framework for Socio-Emotional Analysis in Conversational Interactions"
+
+Submitted to IJCOPI.
