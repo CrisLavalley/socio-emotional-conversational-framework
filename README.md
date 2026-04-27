@@ -26,6 +26,14 @@ If you use this repository, please cite:
 De León Vargas, C. (2026).  
 *A Reproducible Data Mining Framework for Socio-Emotional Analysis in Conversational Interactions*.
 
+## Privacy Notice
+
+This repository contains an anonymized version of conversational data.
+
+Sensitive information has been removed or transformed to reduce re-identification risk.
+
+The full dataset is not publicly available.
+
 ## //
 
 ### Author: 
