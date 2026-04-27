@@ -19,6 +19,13 @@ All experiments are executed with a fixed random seed (SEED=37) and controlled c
 
 A sanitized and anonymized dataset is included. The full dataset is not publicly released due to privacy constraints.
 
+## Citation
+
+If you use this repository, please cite:
+
+De León Vargas, C. (2026).  
+*A Reproducible Data Mining Framework for Socio-Emotional Analysis in Conversational Interactions*.
+
 ## //
 
 ### Author: 
