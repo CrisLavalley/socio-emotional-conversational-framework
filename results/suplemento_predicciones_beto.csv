@@ -1,0 +1,246 @@
+﻿id_sesion,texto,emocion,y_true,y_pred,prob_max,prob_ansiedad,prob_frustración,prob_tristeza,prob_calma,prob_esperanza,prob_alegría,label
+S157,"pues, siento un nudo por la atencion; me preocupa.",tristeza,tristeza,ansiedad,0.9269561,0.9269561,0.01728763,0.027897473,0.009130433,0.01129109,0.0074372636,2
+S120,Siento un nudo por la escuela; esperanza. 😓,esperanza,esperanza,esperanza,0.95152766,0.008027294,0.005165217,0.0060370974,0.015283578,0.95152766,0.013959167,4
+S014,"no sé, me cansa la conducta, pero sigo; salida.",esperanza,esperanza,esperanza,0.9291076,0.008359568,0.007351146,0.007267745,0.038710196,0.9291076,0.009203668,4
+S079,Siento q con las emociones voy lento; alegría. 😓,alegría,alegría,alegría,0.83721894,0.01616292,0.0145489,0.051438715,0.018738657,0.061891843,0.83721894,5
+S024,"Me cansa la atención, pero sigo; calma.",calma,calma,calma,0.9324402,0.007859279,0.008792783,0.008443489,0.9324402,0.032478273,0.009985909,3
+S119,"tal vez, no se como manejar las emociones; me duele.",tristeza,tristeza,tristeza,0.8753062,0.052126218,0.03579851,0.8753062,0.010015146,0.008300109,0.01845384,2
+S068,"o sea, no se como manejar la rutina; me duele.",tristeza,tristeza,tristeza,0.86307764,0.06753612,0.026446758,0.86307764,0.012550545,0.010886085,0.019502977,2
+S019,"a veces, me cansa la atención, pero sigo; serena. y serena",calma,calma,calma,0.9380944,0.0061420896,0.008623195,0.010895122,0.9380944,0.02405713,0.012188059,3
+S024,"siento que, a ratos estoy contenta; me pone triste.",tristeza,tristeza,tristeza,0.9211459,0.017221252,0.022436885,0.9211459,0.01259713,0.0056386357,0.020960234,2
+S011,"no se, estoy intentando con el descanso y nervios.",ansiedad,ansiedad,ansiedad,0.92729956,0.92729956,0.01813074,0.021640927,0.01231918,0.012955852,0.007653593,0
+S080,"como q, hoy las emociones estuvo pesado; tristeza. 😓",tristeza,tristeza,tristeza,0.89603364,0.03158585,0.025307424,0.89603364,0.012989185,0.0074291592,0.026654705,2
+S135,"Me cansa la escuela, pero sigo; nervios. y me acelero",ansiedad,ansiedad,ansiedad,0.9400216,0.9400216,0.009758458,0.023317557,0.010374215,0.010209307,0.0063189045,0
+S119,"en fin, estoy intentando con la tarea y ilusión. y contenta 🙂",alegría,alegría,alegría,0.8538159,0.014390716,0.014216794,0.026039513,0.027696762,0.063840345,0.8538159,5
+S049,Quisiera entender la tarea para estar mejor; frustración. y enojo,frustración,frustración,frustración,0.94304764,0.015876055,0.94304764,0.014283736,0.008830038,0.009317346,0.00864514,1
+S045,A ratos estoy con esperanza; esperanza. y ánimo 😔,esperanza,esperanza,esperanza,0.95205057,0.005402677,0.004346155,0.0047016856,0.016035676,0.95205057,0.017463176,4
+S113,"siento que, quisiera entender la conducta para estar mejor; animo. y animo 🥲",esperanza,esperanza,esperanza,0.95165354,0.0051369714,0.0050002094,0.0041673183,0.022784062,0.95165354,0.011257905,4
+S004,"la verdad, estoy intentando con la atención y ilusión.",alegría,alegría,alegría,0.65967447,0.024082862,0.01581671,0.029395675,0.041703407,0.22932687,0.65967447,5
+S103,"mmm, noo sé cómo manejar la atención; me frustra.",tristeza,tristeza,frustración,0.9376105,0.02243493,0.9376105,0.016950728,0.0077675055,0.008365973,0.006870317,2
+S156,"siento q, siento un nudo por las emociones; me preocupa.",ansiedad,ansiedad,ansiedad,0.92427367,0.92427367,0.015638435,0.033119656,0.008462862,0.011373954,0.0071314285,0
+S097,No se como manejar la rutina; me emociona.,alegría,alegría,alegría,0.8004206,0.0150241675,0.029581578,0.03775984,0.025104959,0.09210882,0.8004206,5
+S087,Con la comunicacion me siento desanimada y ansiedad. y nervios,ansiedad,ansiedad,ansiedad,0.93390435,0.93390435,0.017675806,0.017461708,0.009495742,0.013082459,0.0083799185,0
+S118,"no sé, no sé cómo manejar el descanso; esperanza.",esperanza,esperanza,esperanza,0.95818603,0.005070628,0.0047430517,0.005262785,0.016093988,0.95818603,0.010643581,4
+S068,Hoy la evaluación estuvo pesado; enojo. y me irrita,frustración,frustración,frustración,0.9357655,0.017273959,0.9357655,0.01690069,0.008951842,0.011708786,0.009399235,1
+S080,"mmm, no sé cómo manejar los cambios; serena. y calma 😮‍💨",calma,calma,calma,0.9430601,0.0078109824,0.0077388603,0.0078389,0.9430601,0.023510907,0.0100402385,3
+S147,"la verdad, siento un nudo por la tarea; contenta.",alegría,alegría,alegría,0.8368117,0.011929359,0.013164525,0.021013761,0.038301907,0.078778744,0.8368117,5
+S153,"mmm, con los cambios me siento confundida y miedo. y ansiedad 😮‍💨",ansiedad,ansiedad,ansiedad,0.93465644,0.93465644,0.01836029,0.020303674,0.008617227,0.010938486,0.0071238414,0
+S118,"o sea, siento q con la evaluacion voy lento; llorar. ",tristeza,tristeza,tristeza,0.88331664,0.05023974,0.018409854,0.88331664,0.018358856,0.009198481,0.020476403,2
+S147,"la verdad, no sé cómo manejar la conducta; esperanza. 🙂",esperanza,esperanza,esperanza,0.95970654,0.0056273416,0.004351618,0.0049201935,0.012940657,0.95970654,0.012453606,4
+S068,"en fin, siento que con la escuela voy lento; me pone triste. y vacío",tristeza,tristeza,tristeza,0.9135548,0.019774009,0.018133715,0.9135548,0.021842854,0.0068926015,0.019802168,2
+S007,"mmm, estoy intentando con el descanso y me pone triste. y me duele",tristeza,tristeza,tristeza,0.90504444,0.0359737,0.024518793,0.90504444,0.0121308705,0.0061627906,0.01616939,2
+S147,Con la atencion me siento inquieta y va a mejorar.,esperanza,esperanza,esperanza,0.95479304,0.0049037267,0.0043931054,0.0054033617,0.019495286,0.95479304,0.011011531,4
+S151,"pues, hoy la atención estuvo pesado; contenta.",alegría,alegría,alegría,0.8386597,0.010125369,0.01479795,0.021494936,0.032759752,0.082162306,0.8386597,5
+S006,"no sé, quisiera entender la escuela para estar mejor; alegría.",alegría,alegría,alegría,0.8381621,0.012967398,0.0147396205,0.045283977,0.022090549,0.06675637,0.8381621,5
+S156,"tal vez, no sé cómo manejar la atención; me irrita. 😔",frustración,frustración,frustración,0.9247832,0.02437506,0.9247832,0.026472477,0.008713911,0.008166851,0.00748844,1
+S038,Con la atención me siento estresada y tranquila.,calma,calma,calma,0.93918246,0.0071657426,0.007765237,0.009410092,0.93918246,0.024940398,0.011536073,3
+S157,"a veces, siento un nudo por la comunicación; ilusión. y alegría",alegría,alegría,alegría,0.85088396,0.014376439,0.016310975,0.03878115,0.018990658,0.06065685,0.85088396,5
+S146,Hoy la conducta estuvo pesado; enojo. y me frustra,frustración,frustración,frustración,0.9437265,0.014918276,0.9437265,0.013478639,0.008619578,0.010628278,0.0086286655,1
+S151,"a veces, a ratos estoy estresada; frustración. y frustración 🥲",frustración,frustración,frustración,0.8906813,0.06138789,0.8906813,0.019482736,0.009229846,0.009060778,0.0101575,1
+S038,Siento un nudo por la rutina; confianza.,esperanza,esperanza,esperanza,0.94319206,0.009303291,0.0064094253,0.0045580217,0.01825038,0.94319206,0.018286763,4
+S118,"mmm, siento que con la evaluación voy lento; confianza. 😓",esperanza,esperanza,esperanza,0.947192,0.009784919,0.005825999,0.0050387233,0.014291222,0.947192,0.01786716,4
+S006,Siento que con la tarea voy lento; calma. y en paz,calma,calma,calma,0.93963516,0.0074923565,0.008096423,0.008696065,0.93963516,0.02544556,0.010634461,3
+S075,"siento que, hoy los cambios estuvo pesado; confianza.",esperanza,esperanza,esperanza,0.9542011,0.00867628,0.006445063,0.0049403408,0.012697553,0.9542011,0.013039732,4
+S068,"como que, me cansa la evaluación, pero sigo; ilusión. y feliz",esperanza,esperanza,alegría,0.75213695,0.0140483035,0.010715957,0.02514645,0.03929337,0.15865898,0.75213695,4
+S004,Siento un nudo por el descanso; llorar. 😔,tristeza,tristeza,tristeza,0.89346737,0.046628486,0.018103488,0.89346737,0.015956001,0.0068623126,0.018982325,2
+S074,"en fin, quisiera entender los cambios para estar mejor; confianza. 🙂",esperanza,esperanza,esperanza,0.95026404,0.008855103,0.0049835215,0.004343085,0.01695544,0.95026404,0.014598734,4
+S007,"o sea, a ratos estoy desanimada; me frustra.",frustración,frustración,frustración,0.9371423,0.022833278,0.9371423,0.016912334,0.007603002,0.0081998445,0.007309208,1
+S121,Quisiera entender la tarea para estar mejor; me duele. y me pone triste,tristeza,tristeza,tristeza,0.92161196,0.018766828,0.025075607,0.92161196,0.012034038,0.005618302,0.016893318,2
+S156,A ratos estoy tensa; me acelero. y me preocupa,ansiedad,ansiedad,ansiedad,0.94197565,0.94197565,0.009359153,0.021951383,0.0098505905,0.010257857,0.006605333,0
+S120,Con los cambios me siento agotada y ansiedad. y nervios ,ansiedad,ansiedad,ansiedad,0.93372536,0.93372536,0.01478344,0.018355366,0.009032055,0.015056094,0.00904768,0
+S097,Con la tarea me siento estresada y ánimo.,esperanza,esperanza,esperanza,0.9511301,0.007545774,0.0055893147,0.004798474,0.015855206,0.9511301,0.015081131,4
+S083,"en fin, noo sé cómo manejar la tarea; contenta.",alegría,alegría,alegría,0.84196925,0.0118061965,0.016672444,0.023748983,0.034757867,0.07104522,0.84196925,5
+S153,"tal vez, quisiera entender los cambios para estar mejor; salida.",esperanza,esperanza,esperanza,0.96028763,0.0045986623,0.005610977,0.004964571,0.015710486,0.96028763,0.008827614,4
+S033,Estoy intentando con la evaluación y tranquila.,calma,calma,calma,0.93810344,0.00673114,0.006704686,0.010082685,0.93810344,0.02556037,0.012817682,3
+S151,Con la rutina me siento desanimada y calma.,calma,calma,calma,0.9227697,0.006057073,0.0085274065,0.007771748,0.9227697,0.041981574,0.012892569,3
+S097,"pues, no se como manejar la escuela; miedo.",ansiedad,ansiedad,ansiedad,0.93642086,0.93642086,0.014877546,0.02184744,0.008628214,0.010246975,0.007978965,0
+S024,"pues, me cansa las emociones, pero sigo; feliz.",alegría,alegría,alegría,0.7493634,0.010324173,0.012728976,0.030544648,0.057823926,0.13921484,0.7493634,5
+S087,"como que, no sé cómo manejar el descanso; salida.",esperanza,esperanza,esperanza,0.957315,0.0057875933,0.005586901,0.0047450447,0.018425388,0.957315,0.008140001,4
+S103,Quisiera entender la rutina para estar mejor; me acelero. 😔,ansiedad,ansiedad,ansiedad,0.9271903,0.9271903,0.010662297,0.033270158,0.010561842,0.010182552,0.008132721,0
+S079,"mmm, siento que con la atencion voy lento; me preocupa.",ansiedad,ansiedad,ansiedad,0.92862606,0.92862606,0.013893251,0.027684905,0.010438796,0.012788424,0.0065685427,0
+S038,No sé cómo manejar la tarea; me preocupa.,ansiedad,ansiedad,ansiedad,0.9173777,0.9173777,0.016200595,0.034405503,0.01096598,0.013227173,0.007823054,0
+S074,Estoy intentando con la evaluación y feliz. y feliz,alegría,alegría,alegría,0.857956,0.011105448,0.015886314,0.022770695,0.028593894,0.06368772,0.857956,5
+S097,"Me cansa los cambios, pero sigo; me preocupa. y ansiedad",ansiedad,ansiedad,ansiedad,0.93994147,0.93994147,0.0161407,0.016460175,0.008302401,0.011765475,0.007389832,0
+S097,"la verdad, quisiera entender el descanso para estar mejor; me duele. 🥲",tristeza,tristeza,tristeza,0.8522832,0.0710298,0.027355101,0.8522832,0.014744056,0.012827565,0.02176034,2
+S006,Hoy la conducta estuvo pesado; nervios. 🥲,ansiedad,ansiedad,ansiedad,0.9240894,0.9240894,0.021276996,0.021973949,0.01006953,0.0124979615,0.0100921905,0
+S024,"o sea, no sé cómo manejar el descanso; enojo. y enojo",frustración,frustración,frustración,0.9415886,0.015825089,0.9415886,0.014207932,0.009047732,0.010451708,0.008878959,1
+S087,"mmm, estoy intentando con la escuela y tristeza. y me duele",tristeza,tristeza,tristeza,0.9106016,0.032020994,0.017967522,0.9106016,0.012552827,0.007038151,0.019818801,2
+S080,"la verdad, siento un nudo por la comunicación; llorar.",tristeza,tristeza,tristeza,0.8986081,0.03999439,0.01950055,0.8986081,0.015427103,0.0065546273,0.019915216,2
+S103,"siento que, con la evaluación me siento contenta y me irrita. y me irrita",frustración,frustración,frustración,0.9199439,0.03162627,0.9199439,0.021424925,0.009704792,0.009010264,0.008289719,1
+S157,No se como manejar el descanso; confianza. y esperanza,esperanza,esperanza,esperanza,0.95966685,0.00711376,0.004620385,0.004165914,0.01262999,0.95966685,0.011803085,4
+S011,"siento que, estoy intentando con las emociones y ansiedad. y miedo",frustración,frustración,ansiedad,0.93572885,0.93572885,0.016269006,0.018630406,0.007720312,0.013798658,0.007852744,1
+S097,"pues, siento un nudo por la escuela; tristeza. y me pone triste",tristeza,tristeza,tristeza,0.9191971,0.019029783,0.021905364,0.9191971,0.012920312,0.0051397216,0.021807794,2
+S153,"pues, me cansa la tarea, pero sigo; tristeza. y me duele",tristeza,tristeza,tristeza,0.9108959,0.029446607,0.023842156,0.9108959,0.01291125,0.0053383857,0.017565731,2
+S157,Siento q con la evaluación voy lento; miedo. y ansiedad,ansiedad,ansiedad,ansiedad,0.9412873,0.9412873,0.013974437,0.016373092,0.008535236,0.0122637395,0.0075662257,0
+S159,"mmm, con la rutina me siento serena y desespero. y enojo",frustración,frustración,frustración,0.9377819,0.018969858,0.9377819,0.014362223,0.009327656,0.011499491,0.008058967,1
+S103,"siento que, no sé cómo manejar la evaluación; me acelero.",ansiedad,ansiedad,ansiedad,0.936742,0.936742,0.010953262,0.026827589,0.009257861,0.009245606,0.0069738403,0
+S103,A ratos estoy tensa; feliz.,alegría,alegría,alegría,0.84552026,0.010492923,0.013068788,0.02591898,0.028598191,0.07640083,0.84552026,5
+S120,"Me cansa el descanso, pero sigo; frustración.",frustración,frustración,frustración,0.927722,0.02471936,0.927722,0.020534992,0.008819352,0.0090844035,0.009119847,1
+S080,"tal vez, estoy intentando con la tarea y ansiedad. y nervios 😮‍💨",ansiedad,ansiedad,ansiedad,0.93386745,0.93386745,0.016904727,0.018297119,0.010797219,0.0111833485,0.008950155,0
+S049,"Me cansa la rutina, pero sigo; calma.",calma,calma,calma,0.9319672,0.0074615907,0.0087183565,0.008067177,0.9319672,0.03378185,0.0100038,3
+S038,"Me cansa el descanso, pero sigo; en paz.",calma,calma,calma,0.9306248,0.005747745,0.008237387,0.009672939,0.9306248,0.033822827,0.011894371,3
+S082,"la verdad, hoy la comunicación estuvo pesado; me irrita.",frustración,frustración,frustración,0.9291322,0.02207233,0.9291322,0.022323253,0.00873625,0.00995377,0.007782092,1
+S049,"la verdad, quisiera entender el descanso para estar mejor; miedo. y me acelero",ansiedad,ansiedad,ansiedad,0.93895334,0.93895334,0.008866505,0.025024287,0.009837176,0.0104708355,0.006847976,0
+S135,Hoy la evaluación estuvo pesado; confianza.,esperanza,esperanza,esperanza,0.95016986,0.008618418,0.006614102,0.004857275,0.014253519,0.95016986,0.015486863,4
+S147,"siento que, hoy la atención estuvo pesado; confianza. y ánimo 🥲",esperanza,esperanza,esperanza,0.9573533,0.007225623,0.004707305,0.0046077915,0.012964419,0.9573533,0.013141494,4
+S074,"pues, noo sé cómo manejar las emociones; nervios. y nervios",ansiedad,ansiedad,ansiedad,0.9085852,0.9085852,0.028202832,0.0227818,0.012794177,0.015034579,0.012601434,0
+S150,Estoy intentando con la escuela y nervios. 😓,ansiedad,ansiedad,ansiedad,0.9307673,0.9307673,0.014467416,0.026991164,0.008533307,0.009973968,0.00926686,0
+S118,"mmm, siento un nudo por la rutina; calma.",esperanza,esperanza,calma,0.93244106,0.0076762005,0.008615318,0.007808469,0.93244106,0.03232846,0.011130462,4
+S103,"pues, me cansa la conducta, pero sigo; frustración. y frustración 🙂",frustración,frustración,frustración,0.9027973,0.049941264,0.9027973,0.019206004,0.009396773,0.00923624,0.00942247,1
+S004,Siento que con los cambios voy lento; me frustra. y me irrita,frustración,frustración,frustración,0.9365372,0.021547427,0.9365372,0.014973502,0.0087533705,0.01024959,0.007939001,1
+S075,A ratos estoy inquieta; respiro. y calma,calma,calma,calma,0.9398768,0.008050769,0.007243426,0.008147129,0.9398768,0.026912928,0.009768973,3
+S150,Siento que con la evaluación voy lento; confianza.,esperanza,esperanza,esperanza,0.94895905,0.008452725,0.0060825297,0.004518838,0.013965199,0.94895905,0.0180217,4
+S079,Siento un nudo por el descanso; me duele.,tristeza,tristeza,tristeza,0.8312351,0.092127696,0.036256433,0.8312351,0.012359055,0.009097296,0.018924352,2
+S118,Estoy intentando con el descanso y contenta.,alegría,alegría,alegría,0.82331204,0.011011874,0.01253971,0.023756877,0.040441863,0.0889376,0.82331204,5
+S118,Hoy la atencion estuvo pesado; desespero. y me irrita,frustración,frustración,frustración,0.93473446,0.02105939,0.93473446,0.017012628,0.008963272,0.010453274,0.0077769314,1
+S074,Siento q con las emociones voy lento; me irrita.,frustración,frustración,frustración,0.91455144,0.028422356,0.91455144,0.030023262,0.009496593,0.009244741,0.008261657,1
+S003,"o sea, estoy intentando con la evaluación y me preocupa. y me acelero",ansiedad,ansiedad,ansiedad,0.9374045,0.9374045,0.00930862,0.024770789,0.010024417,0.01139881,0.007092845,0
+S014,"como que, siento un nudo por el descanso; me emociona. y ilusion",alegría,alegría,alegría,0.81642693,0.016955309,0.0322904,0.02485055,0.019987514,0.0894893,0.81642693,5
+S079,"siento que, siento que con los cambios voy lento; ansiedad. 😮‍💨",ansiedad,ansiedad,ansiedad,0.93827814,0.93827814,0.018525839,0.01947823,0.0072141923,0.009709071,0.006794573,0
+S024,Con la tarea me siento agotada y salida.,esperanza,esperanza,esperanza,0.9484973,0.008598822,0.008361563,0.0063010836,0.018117351,0.9484973,0.010123785,4
+S068,"siento que, a ratos estoy con esperanza; nervios. ",ansiedad,ansiedad,ansiedad,0.9257391,0.9257391,0.01895565,0.021969145,0.009625938,0.014423329,0.009286819,0
+S135,"Me cansa la rutina, pero sigo; contenta. 🥲",alegría,alegría,alegría,0.77118963,0.011347975,0.012601125,0.025525304,0.054910164,0.12442584,0.77118963,5
+S003,Estoy intentando con la escuela y alegria.,alegría,alegría,alegría,0.86780936,0.012092864,0.01684132,0.040716738,0.01596178,0.04657791,0.86780936,5
+S150,"no sé, con la escuela me siento confundida y vacío.",tristeza,tristeza,tristeza,0.87602484,0.03291514,0.03781889,0.87602484,0.025244184,0.00935363,0.018643446,2
+S024,"en fin, noo sé cómo manejar la conducta; confianza.",esperanza,esperanza,esperanza,0.94435924,0.009259148,0.006857071,0.0039513516,0.02029429,0.94435924,0.015278884,4
+S087,Siento que con la evaluación voy lento; ansiedad.,ansiedad,ansiedad,ansiedad,0.9398695,0.9398695,0.01807265,0.016325032,0.0074406965,0.01111289,0.0071791615,0
+S080,No sé cómo manejar las emociones; va a mejorar.,esperanza,esperanza,esperanza,0.9552336,0.0062528276,0.005122714,0.0064342786,0.017253838,0.9552336,0.009702781,4
+S120,Siento q con el descanso voy lento; me irrita. y frustración,frustración,frustración,frustración,0.9335354,0.024356935,0.9335354,0.017452184,0.007710974,0.009070044,0.007874336,1
+S024,A ratos estoy desanimada; va a mejorar.,esperanza,esperanza,esperanza,0.95428693,0.0061472123,0.0053732772,0.006665421,0.01646981,0.95428693,0.011057292,4
+S119,Hoy la rutina estuvo pesado; me frustra. 🥲,frustración,frustración,frustración,0.939152,0.020286446,0.939152,0.018107407,0.007564066,0.00786786,0.0070221703,1
+S083,Siento un nudo por la evaluacion; respiro.,calma,calma,calma,0.9283597,0.010452082,0.009555485,0.008775816,0.9283597,0.033073124,0.009783846,3
+S103,A ratos estoy agotada; frustracion.,frustración,frustración,frustración,0.93217623,0.026774101,0.93217623,0.015103962,0.0074246386,0.008793263,0.00972777,1
+S113,"mmm, siento q con los cambios voy lento; tranquila.",calma,calma,calma,0.940031,0.0077376394,0.008128415,0.009281746,0.940031,0.024510304,0.010310922,3
+S156,"a veces, quisiera entender la rutina para estar mejor; miedo. y miedo",ansiedad,ansiedad,ansiedad,0.9271186,0.9271186,0.016027309,0.02464245,0.009801774,0.01345197,0.0089578675,0
+S004,"la verdad, con las emociones me siento agotada y me duele.",tristeza,tristeza,tristeza,0.8561352,0.044270188,0.06335745,0.8561352,0.011566905,0.008279193,0.01639111,2
+S080,"pues, siento un nudo por el descanso; alegria. y alegria",alegría,alegría,alegría,0.8625353,0.011900876,0.01822904,0.050915506,0.018719416,0.037699897,0.8625353,5
+S019,"a veces, estoy intentando con los cambios y nervios. y me acelero",ansiedad,ansiedad,ansiedad,0.94008493,0.94008493,0.0088308,0.023429839,0.011203817,0.0097325845,0.0067181764,0
+S120,"o sea, a ratos estoy tranquila; me frustra.",frustración,frustración,frustración,0.9362688,0.02296564,0.9362688,0.016618146,0.008080476,0.008657509,0.007409445,1
+S019,"pues, a ratos estoy estresada; enoojo.",frustración,frustración,frustración,0.9425026,0.013449938,0.9425026,0.016296526,0.008734715,0.009656479,0.00935975,1
+S014,"como que, siento un nudo por la comunicación; ánimo.",esperanza,esperanza,esperanza,0.9517102,0.006765996,0.0053841206,0.0045900964,0.012991406,0.9517102,0.018558085,4
+S146,"Me cansa la escuela, pero sigo; me duele.",tristeza,tristeza,tristeza,0.8794658,0.047817964,0.030380547,0.8794658,0.012989916,0.009197027,0.020148654,2
+S119,No se como manejar la escuela; en paz. y calma 😔,calma,calma,calma,0.9374811,0.008294465,0.0076848296,0.00799615,0.9374811,0.02822252,0.010320931,3
+S033,Hoy el descanso estuvo pesado; contenta. y feliz,alegría,alegría,alegría,0.857352,0.009398934,0.014682088,0.0201031,0.028818836,0.06964499,0.857352,5
+S157,Con la escuela me siento con esperanza y frustracion. y enojo,frustración,frustración,frustración,0.9420037,0.017906962,0.9420037,0.0134345405,0.0077031655,0.009980976,0.008970627,1
+S028,A ratos estoy serena; nervios.,ansiedad,ansiedad,ansiedad,0.92574745,0.92574745,0.017546147,0.024426695,0.011185628,0.012750253,0.008343793,0
+S147,"mmm, quisiera entender la rutina para estar mejor; serena.",calma,calma,calma,0.93602693,0.006059233,0.008097622,0.009080567,0.93602693,0.029267406,0.011468243,3
+S097,"Me cansa la atención, pero sigo; calma.",calma,calma,calma,0.9324402,0.007859279,0.008792783,0.008443489,0.9324402,0.032478273,0.009985909,3
+S156,"pues, a ratos estoy inquieta; confianza.",esperanza,esperanza,esperanza,0.9502294,0.008993974,0.0063694073,0.0048707,0.01607428,0.9502294,0.013462199,4
+S146,Hoy la rutina estuvo pesado; me irrita.,frustración,frustración,frustración,0.91725963,0.027373452,0.91725963,0.026376393,0.00980706,0.010942354,0.00824122,1
+S003,No sé cómo manejar el descanso; esperanza.,esperanza,esperanza,esperanza,0.95900875,0.0054806652,0.0049147247,0.0050288127,0.014683786,0.95900875,0.0108831925,4
+S004,"la verdad, con el descanso me siento desanimada y me acelero. ",frustración,frustración,ansiedad,0.93846023,0.93846023,0.011006243,0.026612429,0.009314323,0.008968058,0.0056387116,1
+S146,"la verdad, a ratos estoy tranquila; en paz. y serena",calma,calma,calma,0.9464377,0.0061548976,0.00732623,0.008911314,0.9464377,0.020713614,0.010456222,3
+S082,Con la tarea me siento con esperanza y miedo.,ansiedad,ansiedad,ansiedad,0.9187896,0.9187896,0.019083051,0.02949191,0.010610095,0.014890619,0.007134764,0
+S038,"la verdad, hoy el descanso estuvo pesado; feliz. y contenta",esperanza,esperanza,alegría,0.8651551,0.009751483,0.014092331,0.022014799,0.028998928,0.05998733,0.8651551,4
+S087,"siento q, me cansa la comunicación, pero sigo; confianza.",calma,calma,esperanza,0.94529516,0.006605419,0.005148151,0.0041886913,0.024137557,0.94529516,0.014624995,3
+S074,No sé cómo manejar las emociones; calma.,calma,calma,calma,0.9386011,0.007326026,0.008553243,0.008164336,0.9386011,0.026412044,0.0109432535,3
+S014,"pues, con la tarea me siento estresada y miedo. y me acelero",ansiedad,ansiedad,ansiedad,0.9416199,0.9416199,0.008907509,0.024414461,0.00902557,0.009640269,0.0063924068,0
+S119,"tal vez, siento un nudo por la evaluación; llorar.",tristeza,tristeza,tristeza,0.8838297,0.05053843,0.023461748,0.8838297,0.015950613,0.0068022693,0.019417139,2
+S019,"como que, siento que con la tarea voy lento; salida.",esperanza,esperanza,esperanza,0.95435125,0.006258728,0.006686773,0.005826564,0.018708767,0.95435125,0.008167959,4
+S007,Estoy intentando con la conducta y va a mejorar.,esperanza,esperanza,esperanza,0.9587651,0.0058455262,0.00463323,0.0059249518,0.0143751,0.9587651,0.01045604,4
+S041,Siento un nudo por las emociones; nervios. ,ansiedad,ansiedad,ansiedad,0.9231929,0.9231929,0.024349112,0.019956563,0.009397736,0.013192794,0.009910744,0
+S121,"siento q, con el descanso me siento desanimada y me pone triste. y llorar",ansiedad,ansiedad,tristeza,0.9224684,0.021175902,0.0154567575,0.9224684,0.0145300655,0.006605687,0.019763099,0
+S097,"siento que, siento un nudo por los cambios; me irrita. y desespero",frustración,frustración,frustración,0.9337958,0.022283616,0.9337958,0.018886868,0.008872544,0.0094113005,0.0067499494,1
+S139,Estoy intentando con la atención y ilusión.,alegría,alegría,alegría,0.644495,0.020091483,0.014362905,0.026836764,0.039723966,0.25448987,0.644495,5
+S097,Siento un nudo por la escuela; tranquila.,calma,calma,calma,0.9414417,0.005835251,0.0065992,0.0094319945,0.9414417,0.02264289,0.014049035,3
+S119,"a veces, quisiera entender la tarea para estar mejor; me irrita. ",frustración,frustración,frustración,0.928686,0.023902966,0.928686,0.020629741,0.009106033,0.0097259525,0.007949269,1
+S135,"mmm, con el descanso me siento contenta y va a mejorar.",esperanza,esperanza,esperanza,0.9489368,0.0050212825,0.0045428383,0.0055655055,0.01772327,0.9489368,0.018210325,4
+S014,"mmm, estoy intentando con la conducta y me duele. y vacío",tristeza,tristeza,tristeza,0.8966401,0.034236047,0.024376782,0.8966401,0.01842013,0.008034594,0.018292457,2
+S006,A ratos estoy con esperanza; llorar. 🙂,tristeza,tristeza,tristeza,0.90882456,0.031850245,0.012963012,0.90882456,0.017351493,0.008207735,0.020802973,2
+S068,Con la escuela me siento serena y me irrita.,frustración,frustración,frustración,0.9070757,0.033972483,0.9070757,0.027706753,0.011421453,0.011111126,0.008712628,1
+S033,"mmm, hoy la escuela estuvo pesado; va a mejorar. y esperanza ",esperanza,esperanza,esperanza,0.9599956,0.0055413917,0.0041241827,0.005060643,0.014215195,0.9599956,0.011062989,4
+S045,Con la evaluación me siento agotada y salida. y esperanza,esperanza,esperanza,esperanza,0.96017605,0.0061436146,0.0049677975,0.0047425935,0.0129256155,0.96017605,0.011044362,4
+S139,"Me cansa la conducta, pero sigo; tranquila. y calma",calma,calma,calma,0.9459647,0.0065559866,0.006997406,0.007893869,0.9459647,0.022292493,0.010295526,3
+S079,Siento un nudo por los cambios; serena. y en paz ,calma,calma,calma,0.9409666,0.005800538,0.0072981706,0.011052615,0.9409666,0.02308326,0.011798764,3
+S146,Quisiera entender el descanso para estar mejor; me frustra.,frustración,frustración,frustración,0.9382079,0.020925285,0.9382079,0.017400315,0.0078044864,0.008212826,0.0074490677,1
+S121,"Me cansa la atención, pero sigo; desespero.",frustración,frustración,frustración,0.93514574,0.021058032,0.93514574,0.018843757,0.008499253,0.00887313,0.0075801187,1
+S159,A ratos estoy desanimada; llorar. y vacio,tristeza,tristeza,tristeza,0.8975569,0.022362612,0.016783008,0.8975569,0.030537209,0.00826351,0.02449683,2
+S014,"mmm, siento un nudo por la evaluación; en paz.",calma,calma,calma,0.92132735,0.0059676846,0.00876656,0.011459392,0.92132735,0.03931529,0.013163721,3
+S083,"en fin, siento que con la conducta voy lento; me duele. y me duele",tristeza,tristeza,tristeza,0.85586286,0.06539293,0.030582894,0.85586286,0.016629724,0.009424732,0.022106834,2
+S120,"o sea, con la escuela me siento serena y me irrita. 😓",frustración,frustración,frustración,0.90289736,0.0364677,0.90289736,0.028267784,0.011672793,0.011940587,0.008753851,1
+S014,"tal vez, siento que con las emociones voy lento; feliz. y feliz 😓",alegría,alegría,alegría,0.83316696,0.011389431,0.012358348,0.028126424,0.03709079,0.07786813,0.83316696,5
+S019,Quisiera entender la rutina para estar mejor; me pone triste.,tristeza,tristeza,tristeza,0.92021126,0.018312039,0.016919177,0.92021126,0.012575787,0.0058711846,0.026110746,2
+S014,"la verdad, siento un nudo por la conducta; feliz.",alegría,alegría,alegría,0.82705086,0.009717528,0.011767756,0.025202308,0.040704727,0.085556835,0.82705086,5
+S098,"a veces, siento un nudo por los cambios; me duele. 🙂",tristeza,tristeza,tristeza,0.87249607,0.055882413,0.032604985,0.87249607,0.010699198,0.009026313,0.019291041,2
+S004,"a veces, estoy intentando con el descanso y me acelero. y me preocupa",ansiedad,ansiedad,ansiedad,0.9422148,0.9422148,0.009604622,0.022950789,0.009026466,0.009863756,0.0063394755,0
+S150,"mmm, con la rutina me siento serena y desespero.",frustración,frustración,frustración,0.922809,0.029322542,0.922809,0.01980661,0.009691511,0.011479895,0.006890321,1
+S082,"como que, estoy intentando con la comunicacion y desespero. ",frustración,frustración,frustración,0.93531364,0.022888958,0.93531364,0.018320978,0.007805906,0.008698092,0.0069724466,1
+S028,"tal vez, con el descanso me siento serena y serena.",calma,calma,calma,0.93444103,0.005399101,0.008371742,0.01021955,0.93444103,0.028559387,0.013009152,3
+S139,Siento un nudo por la rutina; salida.,esperanza,esperanza,esperanza,0.95604867,0.006327845,0.0068963985,0.0047396403,0.015614428,0.95604867,0.010373085,4
+S087,Siento un nudo por la escuela; confianza.,esperanza,esperanza,esperanza,0.9450561,0.008997296,0.0062420056,0.0044599925,0.016634515,0.9450561,0.01861009,4
+S083,"la verdad, siento un nudo por la rutina; me preocupa.",ansiedad,ansiedad,ansiedad,0.9315565,0.9315565,0.013682029,0.02521254,0.010305379,0.012290819,0.0069527254,0
+S156,"siento que, me cansa la rutina, pero sigo; en paz. y serena 😓",calma,calma,calma,0.9466505,0.0058384715,0.007139786,0.009222761,0.9466505,0.02048738,0.010661097,3
+S150,"tal vez, siento que con el descanso voy lento; me emociona. y me emociona",alegría,alegría,alegría,0.78475356,0.022588978,0.04354044,0.043633416,0.022883883,0.08259975,0.78475356,5
+S147,"como que, quisiera entender la conducta para estar mejor; respiro. 🥲",calma,calma,calma,0.91937226,0.009713659,0.0087283105,0.009589014,0.91937226,0.042400245,0.010196549,3
+S011,Estoy intentando con las emociones y desespero.,frustración,frustración,frustración,0.9297235,0.027626662,0.9297235,0.019031635,0.007699446,0.008363438,0.0075552044,1
+S146,No se como manejar la rutina; nervios.,ansiedad,ansiedad,ansiedad,0.9257435,0.9257435,0.020250715,0.02098918,0.010531742,0.013776829,0.008708086,0
+S028,"mmm, hoy la escuela estuvo pesado; feliz.",alegría,alegría,alegría,0.81755745,0.012932436,0.01604352,0.023618193,0.03333397,0.09651438,0.81755745,5
+S079,Siento que con la escuela voy lento; miedo. y me acelero,ansiedad,ansiedad,ansiedad,0.93825847,0.93825847,0.0091473535,0.025190368,0.009596818,0.010840837,0.006966184,0
+S103,"tal vez, me cansa el descanso, pero sigo; respiro.",calma,calma,calma,0.90544224,0.008194694,0.009348431,0.008586664,0.90544224,0.05878801,0.0096399635,3
+S159,Hoy los cambios estuvo pesado; me irrita.,frustración,frustración,frustración,0.9165115,0.027814172,0.9165115,0.026323,0.010450412,0.010714241,0.008186664,1
+S006,"siento que, no sé cómo manejar la evaluación; tristeza.",tristeza,tristeza,tristeza,0.900024,0.02715447,0.020643938,0.900024,0.013217755,0.0071904915,0.03176934,2
+S003,"noo sé, a ratos estoy con esperanza; me emociona.",alegría,alegría,alegría,0.7534674,0.015433152,0.037859738,0.033480644,0.022735951,0.13702312,0.7534674,5
+S156,Siento un nudo por la evaluación; contenta. y me emociona,alegría,alegría,alegría,0.8303046,0.018493721,0.027306318,0.028757473,0.024134953,0.07100294,0.8303046,5
+S120,Siento un nudo por los cambios; serena.,calma,calma,calma,0.94000393,0.006759861,0.0077186828,0.010681851,0.94000393,0.023151858,0.011683764,3
+S014,"a veces, no se como manejar la conducta; alegria.",alegría,alegría,alegría,0.8593153,0.012681786,0.020109331,0.04134683,0.018318532,0.0482283,0.8593153,5
+S038,Siento un nudo por la comunicacion; me acelero.,ansiedad,ansiedad,ansiedad,0.9366662,0.9366662,0.010991259,0.025284193,0.009916799,0.009428145,0.007713348,0
+S087,"como que, con la conducta me siento con esperanza y vacio.",tristeza,tristeza,tristeza,0.79899716,0.04170797,0.056908794,0.79899716,0.04945481,0.023322731,0.02960849,2
+S083,"como que, hoy las emociones estuvo pesado; llorar.",tristeza,tristeza,tristeza,0.90721744,0.032021917,0.024803113,0.90721744,0.012950485,0.0058418466,0.01716516,2
+S157,Quisiera entender los cambios para estar mejor; me preocupa.,ansiedad,ansiedad,ansiedad,0.9183815,0.9183815,0.01774977,0.033973962,0.010056116,0.011704367,0.008134267,0
+S041,A ratos estoy tranquila; miedo. y me acelero,ansiedad,ansiedad,ansiedad,0.93746215,0.93746215,0.008649139,0.025358777,0.010457904,0.010315527,0.0077564106,0
+S118,A ratos estoy tranquila; contenta. y alegria,alegría,alegría,alegría,0.87096393,0.01090438,0.015289931,0.03500581,0.018479053,0.049356923,0.87096393,5
+S082,"siento que, no se como manejar la evaluacion; serena.",calma,calma,calma,0.9331298,0.006992579,0.00853893,0.0101376865,0.9331298,0.028442053,0.012759018,3
+S098,"mmm, estoy intentando con las emociones y enojo.",frustración,frustración,frustración,0.9365987,0.019928632,0.9365987,0.016860785,0.008458564,0.009374548,0.008778687,1
+S019,"en fin, no sé cómo manejar la comunicación; va a mejorar. ",esperanza,esperanza,esperanza,0.9520845,0.007018356,0.0054734335,0.0063780146,0.016442161,0.9520845,0.012603486,4
+S151,A ratos estoy con esperanza; feliz. 😓,alegría,alegría,alegría,0.8520452,0.010702584,0.012440276,0.026177369,0.028250013,0.070384525,0.8520452,5
+S074,"la verdad, me cansa la conducta, pero sigo; frustración. y me irrita",frustración,frustración,frustración,0.93996006,0.019594891,0.93996006,0.015617035,0.008074697,0.009030266,0.007723057,1
+S049,"a veces, no sé cómo manejar el descanso; salida.",esperanza,esperanza,esperanza,0.95810056,0.0052114674,0.005307012,0.0045174966,0.0189424,0.95810056,0.0079211425,4
+S079,A ratos estoy inquieta; alegría. 🙂,alegría,alegría,alegría,0.84277624,0.01609045,0.014463394,0.05192732,0.022292849,0.052449774,0.84277624,5
+S147,A ratos estoy tensa; tranquila. y serena,calma,calma,calma,0.94724625,0.0064422106,0.007376851,0.008782173,0.94724625,0.01961361,0.010538863,3
+S014,"en fin, estoy intentando con las emociones y tristeza. y me duele",tristeza,tristeza,tristeza,0.9158547,0.03021118,0.016631896,0.9158547,0.011686665,0.0064358027,0.019179689,2
+S157,"como que, estoy intentando con la atención y ánimo.",calma,calma,esperanza,0.9557609,0.005933084,0.004165081,0.003856279,0.014452769,0.9557609,0.015831942,3
+S120,"pues, a ratos estoy con esperanza; miedo.",ansiedad,ansiedad,ansiedad,0.93614906,0.93614906,0.01511608,0.023016885,0.008178034,0.010642934,0.006896985,0
+S087,"Me cansa la evaluación, pero sigo; me emociona. y me emociona",alegría,alegría,alegría,0.8081173,0.019094687,0.039129246,0.04163588,0.024207165,0.06781572,0.8081173,5
+S120,"a veces, hoy la escuela estuvo pesado; tristeza. y vacío 😓",tristeza,tristeza,tristeza,0.8971262,0.027380066,0.028289022,0.8971262,0.018120337,0.0063796206,0.0227047,2
+S079,A ratos estoy con esperanza; salida. y esperanza,esperanza,esperanza,esperanza,0.9590716,0.005812413,0.004447054,0.004593065,0.015105576,0.9590716,0.0109703615,4
+S097,"Me cansa la evaluacion, pero sigo; llorar. y vacio 🙂",tristeza,tristeza,tristeza,0.89001316,0.026086655,0.019747337,0.89001316,0.03120346,0.008547394,0.024402075,2
+S119,"a veces, siento un nudo por la escuela; me emociona. y alegria 🙂",alegría,alegría,alegría,0.84165317,0.0150153525,0.023976168,0.04315737,0.017470533,0.05872742,0.84165317,5
+S080,"en fin, me cansa el descanso, pero sigo; llorar. y llorar 😔",tristeza,tristeza,tristeza,0.88719726,0.042182796,0.021440217,0.88719726,0.020778846,0.0067511373,0.021649696,2
+S082,Estoy intentando con la comunicación y nervios.,ansiedad,ansiedad,ansiedad,0.92994,0.92994,0.016246065,0.024032358,0.0099660335,0.0107580265,0.009057491,0
+S135,"tal vez, hoy la rutina estuvo pesado; me pone triste.",tristeza,tristeza,tristeza,0.9153466,0.018257461,0.024626317,0.9153466,0.012091179,0.005893405,0.02378505,2
+S080,Quisiera entender la escuela para estar mejor; nervios.,ansiedad,ansiedad,ansiedad,0.9208979,0.9208979,0.017742222,0.02933529,0.011203804,0.010963991,0.009856776,0
+S041,"a veces, estoy intentando con la tarea y va a mejorar.",esperanza,esperanza,esperanza,0.9551853,0.004480622,0.005091424,0.005868909,0.015859503,0.9551853,0.013514269,4
+S121,Hoy el descanso estuvo pesado; me pone triste. 🥲,tristeza,tristeza,tristeza,0.9184337,0.017722156,0.015860366,0.9184337,0.015763847,0.006468644,0.025751233,2
+S120,"no sé, quisiera entender el descanso para estar mejor; me frustra.",frustración,frustración,frustración,0.936291,0.023344317,0.936291,0.017092135,0.007821719,0.008367527,0.0070833685,1
+S119,"como que, quisiera entender el descanso para estar mejor; enojo. 😮‍💨",frustración,frustración,frustración,0.9407606,0.016904686,0.9407606,0.016607588,0.0076678796,0.009546732,0.00851253,1
+S074,"Me cansa la tarea, pero sigo; me irrita.",frustración,frustración,frustración,0.9232172,0.026847972,0.9232172,0.020486997,0.01058525,0.010388401,0.008474083,1
+S118,"tal vez, hoy los cambios estuvo pesado; esperanza.",esperanza,esperanza,esperanza,0.9595066,0.006519444,0.005515384,0.005567133,0.011271257,0.9595066,0.0116201425,4
+S121,Quisiera entender la comunicación para estar mejor; va a mejorar. y ánimo,calma,calma,esperanza,0.9586273,0.005441211,0.0036032114,0.0048664906,0.0150012085,0.9586273,0.012460569,3
+S045,"mmm, siento un nudo por la atención; me duele.",tristeza,tristeza,tristeza,0.81788063,0.095408194,0.045910027,0.81788063,0.012322698,0.009944738,0.01853375,2
+S011,"no sé, siento un nudo por la evaluación; me frustra. y enojo",frustración,frustración,frustración,0.9462608,0.0144971805,0.9462608,0.014259776,0.008090687,0.009493965,0.0073975576,1
+S103,A ratos estoy estresada; respiro. y en paz,calma,calma,calma,0.93622327,0.0068864343,0.007871416,0.00897269,0.93622327,0.029504457,0.010541782,3
+S118,"en fin, siento un nudo por los cambios; miedo. y me acelero",tristeza,tristeza,ansiedad,0.9393365,0.9393365,0.009425579,0.02490337,0.008906674,0.010568054,0.0068598553,2
+S156,Quisiera entender las emociones para estar mejor; miedo.,ansiedad,ansiedad,ansiedad,0.9325806,0.9325806,0.019822601,0.02168232,0.007855086,0.010819671,0.007239726,0
+S024,"siento que, no sé cómo manejar la evaluación; tristeza.",tristeza,tristeza,tristeza,0.900024,0.02715446,0.020643938,0.900024,0.013217755,0.0071904883,0.031769335,2
+S157,"mmm, siento un nudo por las emociones; esperanza.",esperanza,esperanza,esperanza,0.95807207,0.0066643814,0.005640821,0.0048736325,0.013033842,0.95807207,0.011715187,4
+S097,Estoy intentando con la evaluación y ánimo.,esperanza,esperanza,esperanza,0.95063114,0.0056035565,0.003959167,0.004676139,0.0138877425,0.95063114,0.021242298,4
+S156,"tal vez, quisiera entender la comunicacion para estar mejor; me preocupa.",ansiedad,ansiedad,ansiedad,0.90625286,0.90625286,0.016867433,0.041264143,0.012356408,0.014344396,0.008914869,0
+S007,"a veces, hoy el descanso estuvo pesado; va a mejorar.",esperanza,esperanza,esperanza,0.9554294,0.005423429,0.005083859,0.006910802,0.017654656,0.9554294,0.0094978735,4
+S006,"mmm, quisiera entender la comunicacion para estar mejor; enojo.",frustración,frustración,frustración,0.9377248,0.01946909,0.9377248,0.016760845,0.008016777,0.009433798,0.008594524,1
+S049,"no sé, estoy intentando con la tarea y frustración. y frustración",frustración,frustración,frustración,0.89728516,0.05503286,0.89728516,0.01836712,0.009086741,0.010027592,0.010200517,1
+S139,Estoy intentando con la atención y confianza.,esperanza,esperanza,esperanza,0.94722074,0.007953666,0.005276196,0.003986482,0.021782784,0.94722074,0.013780127,4
+S003,"siento q, hoy la rutina estuvo pesado; calma.",calma,calma,calma,0.9333617,0.00820699,0.009686604,0.0077830893,0.9333617,0.030814068,0.010147472,3
+S080,"a veces, a ratos estoy tranquila; vacio. y me pone triste",frustración,frustración,tristeza,0.9174754,0.020535927,0.020639326,0.9174754,0.017323866,0.0057637207,0.018261708,1
+S120,"Me cansa la atencion, pero sigo; va a mejorar. y confianza",calma,calma,esperanza,0.9532307,0.0077775265,0.004552082,0.0046817493,0.018264767,0.9532307,0.011493271,3
+S120,"mmm, no sé cómo manejar la conducta; va a mejorar. y salida",esperanza,esperanza,esperanza,0.9597699,0.007324283,0.0051171426,0.005804983,0.013181836,0.9597699,0.008801856,4
+S087,Siento que con la conducta voy lento; me pone triste. 😓,tristeza,tristeza,tristeza,0.9196115,0.017361201,0.015681565,0.9196115,0.015092496,0.0064723543,0.025780953,2
+S097,A ratos estoy serena; calma. 🥲,calma,calma,calma,0.9369315,0.007522137,0.0070012365,0.007977128,0.9369315,0.029085375,0.011482704,3
+S150,Hoy las emociones estuvo pesado; animo.,esperanza,esperanza,esperanza,0.95238173,0.006149249,0.007040625,0.00456973,0.015670704,0.95238173,0.01418791,4
+S135,"pues, con el descanso me siento desanimada y me duele. y me duele",tristeza,tristeza,tristeza,0.8334148,0.07102205,0.051563457,0.8334148,0.016476577,0.008408249,0.019114858,2
+S113,Siento un nudo por el descanso; me acelero.,ansiedad,ansiedad,ansiedad,0.93692905,0.93692905,0.010959552,0.026751217,0.009028637,0.009103989,0.007227457,0
+S083,Estoy intentando con la rutina y frustración. y frustración,frustración,frustración,frustración,0.8861065,0.06388902,0.8861065,0.01931226,0.008973103,0.010547481,0.011171532,1
+S075,"como q, siento un nudo por la atencion; serena. y en paz 🥲",calma,calma,calma,0.93881893,0.006117298,0.006927829,0.009553813,0.93881893,0.026432784,0.0121493805,3
+S119,"a veces, estoy intentando con los cambios y me pone triste.",tristeza,tristeza,tristeza,0.91066796,0.021882381,0.024586832,0.91066796,0.012805383,0.0060025267,0.024054855,2
+S079,"tal vez, me cansa la conducta, pero sigo; me preocupa.",ansiedad,ansiedad,ansiedad,0.9295603,0.9295603,0.017161248,0.025259208,0.010575224,0.0108790565,0.006564845,0
+S097,"o sea, me cansa los cambios, pero sigo; calma. y respiro 🥲",calma,calma,calma,0.9258604,0.008128153,0.007256828,0.007702134,0.9258604,0.041641492,0.009410986,3
+S150,Siento un nudo por la evaluacion; miedo.,ansiedad,ansiedad,ansiedad,0.93822366,0.93822366,0.015463758,0.021290828,0.0067062494,0.010055524,0.008259935,0
